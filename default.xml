@@ -2,5 +2,5 @@
 <manifest>
   <remote  name="origin" fetch=".." />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
-  <project path="TestGitLFS" name="TestGitLFS.git" />
+  <project path="TestGitLFS" name="panidarynka/TestGitLFS.git" />
 </manifest>
