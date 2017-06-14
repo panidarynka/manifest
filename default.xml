@@ -3,4 +3,5 @@
   <remote  name="origin" fetch=".." />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
   <project path="TestGitLFS" name="panidarynka/TestGitLFS.git" />
+  <project path="TestTask" name="panidarynka/TestTask.git" />
 </manifest>
