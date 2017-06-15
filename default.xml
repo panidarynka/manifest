@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="origin" fetch=".." />
+  <remote  name="panidarynka" fetch="https://github.com/panidarynka" />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
-  <project path="TestGitLFS" name="panidarynka/TestGitLFS.git" />
-  <project path="TestTask" name="panidarynka/TestTask.git" />
+  <project path="TestGitLFS" name="TestGitLFS.git" />
+  <project path="TestTask" name="TestTask.git" />
 </manifest>
